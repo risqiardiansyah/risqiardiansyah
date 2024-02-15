@@ -1,7 +1,8 @@
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=risqiardiansyah&show_icons=true&theme=algolia&count_private=true&hide=contribs&include_all_commits=true" />
+<!--  <img height="154" src="https://github-readme-stats.vercel.app/api?username=risqiardiansyah&show_icons=true&theme=algolia&count_private=true&hide=contribs&include_all_commits=true" /> -->
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risqiardiansyah&layout=compact&theme=algolia&hide=handlebars,java&langs_count=6" />
 </div>
+
 
 ### Hi there 👋
 
