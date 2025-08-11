@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-You can call me **Kiki**, I work with as Fullstack Engineering, I Focus on React development system, PHP especially Laravel Framework, and some other language. I write to solve any problem exists.
+You can call me **Kiki**, I work with as Fullstack Developer, I Focus on React development system, Java (Spring Boot), PHP especially Laravel Framework, and some other language. I write to solve any problem and issues exists.
 
 ### 🤝 Connect with me:
 
